@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(180, 219, 219);
+}
+
+h4 {
+    background-color: brown;
+}
+
+.ul {
+    width: 300px;
+    hight: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.li {
+    width: 90px;
+    hight: 90px;
+    border: 5px solid white;
+    background-color: lightblue;
+    list-style-type: none;
+    font: 80px sans-serif;
+    text-align: center;
+}
